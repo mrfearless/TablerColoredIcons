@@ -8,7 +8,7 @@ x64dbg theme using colored tabler icons (https://github.com/tabler/tabler-icons)
 
 # Installation
 
-1. Download [TablerColoredIconsTheme.zip](https://github.com/mrfearless/TablerColoredIcons/blob/master/TablerColoredIconsTheme.zip?raw=true)
+1. Download [TablerColoredIconsTheme.zip](https://github.com/mrfearless/TablerColoredIcons/blob/main/TablerColoredIconsTheme.zip?raw=true)
 
 2. Unzip contents to  a `\x64dbg\themes\TablerColoredIcons` folder.
 
