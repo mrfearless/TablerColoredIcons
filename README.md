@@ -18,6 +18,4 @@ x64dbg theme using colored tabler icons (https://github.com/tabler/tabler-icons)
 
 5. Select **Options** -> **Themes** -> **TablerColoredIcons** theme to use the theme
 
-6. 
-
-7. Enjoy
+6. Enjoy
