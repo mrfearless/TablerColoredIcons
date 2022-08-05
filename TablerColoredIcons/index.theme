@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=TablerColoredIcons
+Comment=Icons from Tabler: https://github.com/tabler/tabler-icons - see https://gist.github.com/mrfearless/67483c7fa46901b4f2acb537c9563c78
+Directories=icons
+Inherits=Default
+
+[icons]
+Size=48
+Type=Scalable

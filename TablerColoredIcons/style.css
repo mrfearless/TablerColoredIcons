@@ -1,0 +1,19 @@
+QToolBar { 
+    padding: 3px;
+    spacing: 3px;
+    qproperty-iconSize: 32px;
+}
+
+QTabBar {
+    qproperty-iconSize: 24px;
+}
+
+/* Set DisassemblyBackgroundColor to #XXXXXX in style.ini, x32dbg.ini or x64dbg.ini */
+/* to allow for transparency and thus enabling the background image to show */
+
+Disassembly {
+    background-repeat: no-repeat;
+    background-image: url(./rc/background.png);
+    background-position: bottom right;
+    background-attachment: fixed;
+}
